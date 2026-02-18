@@ -39,6 +39,7 @@ body {
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
   width: 400px;
+  padding: 20px;
 }
 
 .sidebar-and-main-content, .main-content {
@@ -48,6 +49,7 @@ body {
 
 .main-content {
   flex-wrap: wrap;
+  padding: 48px;
 }
 
 a {
