@@ -40,6 +40,7 @@ body {
   border-radius: 4px;
   width: 400px;
   padding: 20px;
+  margin: 15px;
 }
 
 .sidebar-and-main-content, .main-content {
